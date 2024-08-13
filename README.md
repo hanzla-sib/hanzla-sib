@@ -18,14 +18,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hanzla-s-369883219/](https://www.linkedin.com/in/hanzla-s-369883219/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hanzlasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hanzlasib" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hanzla-s-369883219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hanzla-s-369883219/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hanzla_hs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hanzla_hs/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/hanzlasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hanzlasib" height="30" width="40" /></a>
-</p>
-|---|---|---|---|---|---|
+
+
 
 
 ## 👨‍💻 Languages and Tools:
@@ -92,12 +86,30 @@
 </table>
 
 
-|---|---|---|---|---|---|
 
+## 📊 &nbsp;My activities
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanzla-sib&show_icons=true&locale=en&layout=compact" alt="hanzla-sib" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzla-sib&show_icons=true&locale=en" alt="hanzla-sib" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzla-sib&" alt="hanzla-sib" /></p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanzla-sib" alt="hanzla-sib" /></a> </p>
+
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hanzla-sib)
+
+
+
+ ## 📫 &nbsp;My Contacts
+<p align="left">
+<a href="https://twitter.com/hanzlasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hanzlasib" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hanzla-s-369883219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hanzla-s-369883219/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/hanzla_hs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hanzla_hs/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/hanzlasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hanzlasib" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
