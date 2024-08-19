@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/hanzlasib" target="blank"><img src="https://img.shields.io/twitter/follow/hanzlasib?logo=twitter&style=for-the-badge" alt="hanzlasib" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs,Stripe,Drizzel,Prisma,TanStack,Clerk Auth,Sockets,ShadCn**
+- 🌱 I’m currently learning **NextJs,Stripe,Drizzel Orm,Prisma Orm,Neon Postgress DB,TanStack,Clerk Auth,Sockets,ShadCn**
 
 - 👨‍💻 All of my projects are available at [https://hanzla-sib.github.io/Portfolio/](https://hanzla-sib.github.io/Portfolio/)
 
