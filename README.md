@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react, next, c++, Tailwind, Material Ui**
 
-- 📫 How to reach me **hanzlasib@gmail.com**
+- 📫 How to reach me **hanzlasib24@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hanzla-s-369883219/](https://www.linkedin.com/in/hanzla-s-369883219/)
 
