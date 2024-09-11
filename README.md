@@ -27,9 +27,8 @@ Experienced Full Stack Developer with a focus on frontend development using Reac
 ## 🛠️ My Tech Stack
 **Frontend**: React.js, Next.js, Tailwind CSS  
 **Backend**: Node.js, Express.js, Prisma ORM  
-**Database**: PostgreSQL, MongoDB, MySQL  
-**Cloud/DevOps**: Firebase, Redis  
-**Tools**: Postman, Figma, Docker
+**Database**: PostgreSQL, MongoDB, MySQL, Firebase, Redis  
+**Tools**: Postman, VsCode
 
 
 
