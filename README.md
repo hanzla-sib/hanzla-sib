@@ -24,6 +24,12 @@ Experienced Full Stack Developer with a focus on frontend development using Reac
 - 📄 Know about my experiences [https://www.linkedin.com/in/hanzla-s-369883219/](https://www.linkedin.com/in/hanzla-s-369883219/)
 
 
+## 🛠️ My Tech Stack
+**Frontend**: React.js, Next.js, Tailwind CSS  
+**Backend**: Node.js, Express.js, Prisma ORM  
+**Database**: PostgreSQL, MongoDB, MySQL  
+**Cloud/DevOps**: Firebase, Redis  
+**Tools**: Postman, Figma, Docker
 
 
 
