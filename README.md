@@ -112,6 +112,9 @@ Experienced Full Stack Developer with a focus on frontend development using Reac
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hanzla-sib)
 
+## ✍️ Blog & Articles
+- [Understanding the MERN Stack](https://medium.com/@hanzla_sib/understanding-mern-stack)
+
 
 
  ## 📫 &nbsp;My Contacts
