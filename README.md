@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer | Frontend Specialist | MERN Stack Expert</h3>
 
 <p align="center">
-Experienced Full Stack Developer with a focus on frontend development using React and Next.js. Over 3 years of experience in creating efficient, scalable, and user-friendly applications. Passionate about building seamless user experiences and integrating advanced technologies to solve complex problems. Let's collaborate to bring innovative projects to life!
+Experienced Full Stack Developer with a focus on frontend development using React and Next.js. Over 2 years of experience in creating efficient, scalable, and user-friendly applications. Passionate about building seamless user experiences and integrating advanced technologies to solve complex problems. Let's collaborate to bring innovative projects to life!
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzla-sib&label=Profile%20views&color=0e75b6&style=flat" alt="hanzla-sib" /> </p>
