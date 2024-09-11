@@ -105,6 +105,9 @@ Experienced Full Stack Developer with a focus on frontend development using Reac
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzla-sib&" alt="hanzla-sib" /></p>
 <br>
 
+## 📈 Weekly Coding Stats
+![](https://github-readme-stats.vercel.app/api/wakatime?username=hanzla-sib&layout=compact)
+
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hanzla-sib)
