@@ -15,7 +15,7 @@ Full Stack Developer with 1.5 years of experience, focusing on frontend developm
 
 - 🌱 I’m currently learning **NextJs,Stripe,Drizzel Orm,Prisma Orm,Neon Postgress DB,TanStack,Clerk Auth,Sockets,ShadCn**
 
-- 👨‍💻 All of my projects are available at [https://hanzla-sib.github.io/Portfolio/](https://next-js-portfolio-85ko-qbgo85c14-hanzlasibs-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://hanzla-sib.github.io/Portfolio/](https://next-js-portfolio-85ko.vercel.app/)
 
 - 💬 Ask me about **react, next, c++, Tailwind, Material Ui**
 
