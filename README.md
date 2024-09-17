@@ -78,6 +78,6 @@ Full Stack Developer with 1.5 years of experience, focusing on frontend developm
 
 ## ⚡Recent GitHub Activity
  
-  [![Hassan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanzla-sib&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanzla-sib&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
