@@ -25,79 +25,12 @@ Full Stack Developer with 1.5 years of experience, focusing on frontend developm
 - 📄 Know about my experiences [https://www.linkedin.com/in/hanzla-s-369883219/](https://www.linkedin.com/in/hanzla-s-369883219/)
 
 
-## 🛠️ My Tech Stack
-**Frontend**: React.js, Next.js, Tailwind CSS  
-**Backend**: Node.js, Express.js, Prisma ORM  
-**Database**: PostgreSQL, MongoDB, MySQL, Firebase, Redis  
-**Tools**: Postman, VsCode
 
 
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,ts,go,py,html,babel,bootstrap,css,pug,react,redux,sass,tailwind,materialui,nextjs,angular,vite,nodejs,express,graphql,nestjs,flask,fastapi,spring,elasticsearch,mongodb,mysql,postgres,redis,sqlite,firebase,jest,selenium,docker,kubernetes,githubactions,aws,azure,vercel,bash,discord,eclipse,git,github,heroku,linux,postman,stackoverflow,vscode,webstorm,notion,idea&theme=dark)](https://skillicons.dev)
-## 👨‍💻 Languages and Tools:
-
-<table>
-    <tbody>
-        <tr>
-            <td><a href="#"><img alt="Bootstrap" title="Bootstrap" height="38px"
-                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" /></a>
-            </td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="38px"
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></a>
-            </td>
-            <td><a href="#"><img alt="Express" title="Express" height="38px"
-                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" /></a>
-            </td>
-            <td><a href="#"><img alt="Figma" title="Figma" height="38px"
-                         src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></a>
-            </td>
-            <td><a href="#"><img alt="Firebase" title="Firebase" height="38px"
-                        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="GraphQl" title="GraphQl" height="38px"
-                       src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" /></a></td>
-            <td><a href="#"><img alt="HTML" title="HTML" height="38px"
-                       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></a></td>
-            <td><a href="#"><img alt="Javascript" title="Javascript" height="38px"
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a></td>
-            <td><a href="#"><img alt="MongoDB" title="MongoDB" height="38px"
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></a>
-            </td>
-            <td><a href="#"><img alt="MySql" title="MySql" height="38px"
-                       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></a></td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="38px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
-            </td>
-            <td><a href="#"><img alt="SQL" title="SQL" height="38px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
-            </td>
-            <td><a href="#"><img alt="Postgres" title="Postgres" height="38px"
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" /></a></td>
-            <td><a href="#"><img alt="Postman" title="Postman" height="38px"
-                       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></a></td>
-            <td><a href="#"><img alt="React" title="React" height="38px"
-                          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="ReactNative" title="ReactNative" height="38px"
-                         src="https://reactnative.dev/img/header_logo.svg" /></a>
-            </td>
-            <td><a href="#"><img alt="Redis" title="Redis" height="38px"
-                       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" /></a></td>
-            <td><a href="#"><img alt="Tailwind Css" title="Tailwind Css" height="38px"
-                       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a></td>
-            <td><a href="#"><img alt="TypeScript" title="TypeScript" height="38px"
-                       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></a></td>
-           
-  
-</table>
 
 
 
