@@ -65,13 +65,7 @@ Full Stack Developer with 1.5 years of experience, focusing on frontend developm
 
 ## ⚙️GitHub Analytics
 
-<div align="center">
 
-[![Syed007Hassan's GitHub | Stats](https://stats.quine.sh/hanzla-sib/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hanzla-sib)
-
-[![Syed007Hassan's GitHub | Languages Over Time](https://stats.quine.sh/hanzla-sib/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hanzla-sib)
-
-</div>
 
 
 <p align="center">  
