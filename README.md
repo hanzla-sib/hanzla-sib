@@ -22,7 +22,7 @@ Full Stack Developer with 1.5 years of experience, focusing on frontend developm
 
 - 📫 How to reach me **hanzlasib24@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hanzla-s-369883219/](https://www.linkedin.com/in/hanzla-s-369883219/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/hanzlasibghat/)
 
 
 
