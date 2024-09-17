@@ -1,3 +1,4 @@
+<img align="right" alt="GIF" height="220px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Hanzla Sibghat</h1>
 <h3 align="center">A passionate frontend developer and Master's student in Munich, Germany</h3>
