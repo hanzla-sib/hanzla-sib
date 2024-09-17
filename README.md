@@ -61,3 +61,29 @@ Full Stack Developer with 1.5 years of experience, focusing on frontend developm
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+
+
+## ⚙️GitHub Analytics
+
+<div align="center">
+
+[![Syed007Hassan's GitHub | Stats](https://stats.quine.sh/Syed007Hassan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Syed007Hassan)
+
+[![Syed007Hassan's GitHub | Languages Over Time](https://stats.quine.sh/Syed007Hassan/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Syed007Hassan)
+
+</div>
+
+
+<p align="center">  
+<a href="https://github.com/Syed007Hassan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syed007Hassan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Syed007Hassan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+## ⚡Recent GitHub Activity
+ 
+  [![Hassan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syed007hassan&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
