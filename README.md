@@ -36,8 +36,8 @@ Full Stack Developer with 1.5 years of experience, focusing on frontend developm
 
 ## 📊 &nbsp;My activities
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanzla-sib&show_icons=true&locale=en&layout=compact" alt="hanzla-sib" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzla-sib&show_icons=true&locale=en" alt="hanzla-sib" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzla-sib&" alt="hanzla-sib" /></p>
 <br>
