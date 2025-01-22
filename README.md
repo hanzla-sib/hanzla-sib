@@ -49,7 +49,7 @@ Full Stack Developer with 1.5 years of experience, focusing on frontend developm
 
 <p align="center">  
 <a href="https://github.com/hanzla-sib">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hanzla-sib&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="[https://github-readme-stats-eight-theta.vercel.app/api?username=hanzla-sib&show_icons=true&theme=algolia&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=hanzla-sib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22150%22%20alt=%22stats%20graph)"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanzla-sib&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
