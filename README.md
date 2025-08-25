@@ -39,17 +39,21 @@ Full Stack Developer with 1.5 years of experience, focusing on frontend developm
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanzla-sib&show_icons=true&locale=en&layout=compact" alt="hanzla-sib" /></p>
 
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzla-sib&" alt="hanzla-sib" /></p>
 <br>
 
 ## ⚙️GitHub Analytics
-<div align="center">
 
-[![hanzla-sib's GitHub | Stats](https://stats.quine.sh/hanzla-sib/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hanzla-sib)
 
-[![hanzla-sib's GitHub | Languages Over Time](https://stats.quine.sh/hanzla-sib/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hanzla-sib)
 
-</div>
+
+<p align="center">  
+<a href="https://github.com/hanzla-sib">
+ 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanzla-sib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22150%22%20alt=%22stats%20graph"/>
+</a>
+</p>
+
 
 ## ⚡Recent GitHub Activity
  
