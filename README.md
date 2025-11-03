@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=hanzla-sib&label=Profile%20views&color=0e75b6&style=flat" alt="hanzla-sib" />
 </p>
 
-## 👋 Hello, I'm Muhammad Anas
+## 👋 Hello, I'm Hanzla Sibghat
 
 ### 🚀 GenAI Engineer | 🤖 LLM Specialist | 🧠 AI Solutions Architect
 
