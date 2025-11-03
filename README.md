@@ -94,20 +94,18 @@
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hanzla-sib&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff&icon_color=53F3CE"/>
-
-<img height="200em" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla-sib&layout=donut-vertical&langs_count=8&theme=react&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff&hide_border=true&hide=jupyter%20notebook"/>
-
-
-</div>
-
-<div align="center">
+<!-- First row: Stats + Streak on the same line -->
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hanzla-sib&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff&icon_color=53F3CE"/>
   
-![GitHub Streak](https://streak-stats.demolab.com?user=hanzla-sib&theme=react&background=0f0f23&border=26D9C7&stroke=53F3CE&ring=26D9C7&fire=53F3CE&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=26D9C7&sideLabels=26D9C7&dates=ffffff)
-
+  <img src="https://streak-stats.demolab.com?user=hanzla-sib&theme=react&background=0f0f23&border=26D9C7&stroke=53F3CE&ring=26D9C7&fire=53F3CE&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=26D9C7&sideLabels=26D9C7&dates=ffffff" height="180em"/>
 </div>
+
+<!-- Second row: Top Languages -->
+<div align="center" style="margin-top: 30px;">
+  <img height="400em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla-sib&layout=donut-vertical&langs_count=8&theme=react&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff&hide_border=true&hide=jupyter%20notebook"/>
+</div>
+
 
 ---
 
