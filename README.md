@@ -12,7 +12,7 @@
 
 ### 🚀 Full Stack Developer | 🎨 Frontend Specialist | 🤖 GenAI Engineer | 🧩 LLM Specialist | 🧠 AI Solutions Architect
 
-💡 As a **Software & AI Engineer at Siemens**, I’m passionate about transforming ideas into intelligent, production-ready solutions. With **2.5 years of full-stack experience**, I specialize in **frontend development** using **React** and **Next.js**, while building scalable, user-focused applications. I also develop **GenAI systems** leveraging **LangChain**, **RAG pipelines**, and **advanced prompt engineering** to automate workflows and deliver data-driven insights.
+💡 As a **Software & AI Engineer at Siemens**, I'm passionate about transforming ideas into intelligent, production-ready solutions. With **2.5 years of full-stack experience**, I specialize in **frontend development** using **React** and **Next.js**, while building scalable, user-focused applications. I also develop **GenAI systems** leveraging **LangChain**, **RAG pipelines**, and **advanced prompt engineering** to automate workflows and deliver data-driven insights.
 
 🎯 **Current Focus:** Multi-agent systems, vector databases, and enterprise AI integrations while pursuing **MSc Computer Science** at **University of Passau**.
 
@@ -86,27 +86,66 @@
 
 ---
 
-## 📊 &nbsp;My activities
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanzla-sib&show_icons=true&locale=en&layout=compact" alt="hanzla-sib" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzla-sib&" alt="hanzla-sib" /></p>
-<br>
-
 ## 📈 GitHub Analytics
 
 <div align="center">
-  
+
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hanzla-sib&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff&icon_color=53F3CE"/>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanzla-sib&layout=compact&langs_count=8&theme=react&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla-sib&layout=donut-vertical&langs_count=8&theme=react&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff&hide_border=true&hide=jupyter%20notebook"/>
 
 </div>
 
 <div align="center">
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=hanzla-sib&theme=react&background=0f0f23&border=26D9C7&stroke=53F3CE&ring=26D9C7&fire=53F3CE&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=26D9C7&sideLabels=26D9C7&dates=ffffff)
+
+</div>
+
+---
+
+## ⚡ Recent GitHub Activity
+
+<div align="center">
+
+[![Hanzla's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanzla-sib&bg_color=0d1117&color=26D9C7&line=53F3CE&point=1DB954&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Status | Links |
+|---------|-----------|--------|-------|
+| 🤖 **Multi-Agent AI System** | LangChain, OpenAI, FastAPI | ✅ Production | [View →](https://github.com/hanzla-sib) |
+| 📊 **Analytics Dashboard** | React, Next.js, MongoDB | 🚧 In Progress | [View →](https://github.com/hanzla-sib) |
+| 🔍 **RAG Document Search** | Pinecone, LangChain, Python | ✅ Live | [View →](https://github.com/hanzla-sib) |
+| 💬 **AI Chat Interface** | Next.js, OpenAI, Vercel | ✅ Deployed | [View →](https://github.com/hanzla-sib) |
+
+[🔗 View All Projects →](https://github.com/hanzla-sib?tab=repositories)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hanzla-sib&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=26D9C7)
 
 </div>
 
@@ -137,44 +176,30 @@
 
 ---
 
-## 🎓 **Current Journey**
+## 🎓 Current Journey
 
 <div align="center">
 
 🎯 **MSc Computer Science** @ University of Passau, Germany (2024-Present)
 
-<!-- 🌍 **From Karachi to Munich to Passau** - Building global AI solutions   -->
-
 📚 **Focus Areas**: Multi-agent Systems, Vector Databases, Enterprise AI Integration
 
 </div>
 
-<!-- ## 🎵 **Currently Vibing To**
-
-<div align="center">
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31yxzgkxhgkttlvybpd7l6e2xz3a&unique={true})](https://spotify-recently-played-readme.vercel.app/api?user=31yxzgkxhgkttlvybpd7l6e2xz3a&unique={true})
-
-</div> -->
-
----
-
-## ⚡ **Recent GitHub Activity**
-
-<div align="center">
-
-[![Anas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanzla-sib&bg_color=0d1117&color=26D9C7&line=53F3CE&point=1DB954&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ---
 
 <div align="center">
 
-### 💭 **Philosophy**
+### 💭 Philosophy
 
 _"The best AI systems don't replace human intelligence—they amplify it."_
 
 **🚀 Open to collaborating on:** GenAI projects, RAG systems, LLM integrations, and AI-powered applications
+
+---
+
+### ⭐ If you like what I do, consider giving my repos a star!
+
+![](https://komarev.com/ghpvc/?username=hanzla-sib&color=26D9C7&style=flat-square&label=Profile+Views)
 
 </div>
