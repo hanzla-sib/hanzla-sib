@@ -10,11 +10,17 @@
 
 ## 👋 Hello, I'm Hanzla Sibghat
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20%26%20AI%20Engineer-Siemens%20Munich-blue?style=for-the-badge&logo=siemens&logoColor=white&labelColor=0A66C2&color=26D9C7" alt="Siemens Munich" />
+</p>
+
 ### 🚀 Full Stack Developer | 🎨 Frontend Specialist | 🤖 GenAI Engineer | 🧩 LLM Specialist | 🧠 AI Solutions Architect
 
-💡 As a **Software & AI Engineer at Siemens**, I'm passionate about transforming ideas into intelligent, production-ready solutions. With **2.5 years of full-stack experience**, I specialize in **frontend development** using **React** and **Next.js**, while building scalable, user-focused applications. I also develop **GenAI systems** leveraging **LangChain**, **RAG pipelines**, and **advanced prompt engineering** to automate workflows and deliver data-driven insights.
+💡 I'm passionate about transforming ideas into intelligent, production-ready solutions. With **2.5 years of full-stack experience**, I specialize in **frontend development** using **React** and **Next.js**, while building scalable, user-focused applications. I also develop **GenAI systems** leveraging **LangChain**, **RAG pipelines**, and **advanced prompt engineering** to automate workflows and deliver data-driven insights.
 
 🎯 **Current Focus:** Multi-agent systems, vector databases, and enterprise AI integrations while pursuing **MSc Computer Science** at **University of Passau**.
+
+
 
 <div align="center">
   
