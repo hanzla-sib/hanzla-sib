@@ -120,10 +120,10 @@
 
 | Project | Tech Stack | Status | Links |
 |---------|-----------|--------|-------|
-| 🤖 **Multi-Agent AI System** | LangChain, OpenAI, FastAPI | ✅ Production | [View →](https://github.com/hanzla-sib) |
-| 📊 **Analytics Dashboard** | React, Next.js, MongoDB | 🚧 In Progress | [View →](https://github.com/hanzla-sib) |
-| 🔍 **RAG Document Search** | Pinecone, LangChain, Python | ✅ Live | [View →](https://github.com/hanzla-sib) |
-| 💬 **AI Chat Interface** | Next.js, OpenAI, Vercel | ✅ Deployed | [View →](https://github.com/hanzla-sib) |
+| 🛠 **CompAIler** | Python, AI | ✅ Deployed | [View →](https://hanzla-sib.github.io/CompAIler) |
+| 💻 **CodeSensei** | React, Next.js | ✅ Live | [View →](https://hanzla-sib.github.io/CodeSensei) |
+| 🏧 **ATM Machine OOP** | C++, File Handling | ✅ Completed | [View →](https://github.com/hanzla-sib/ATM-MACHINE-OOP) |
+| 🏥 **Remote Care (FYP)** | React, Java, Firebase, IoT | ✅ Deployed | [View →](https://github.com/hanzla-sib/SMD_PROJECT_REMOTECARE) |
 
 [🔗 View All Projects →](https://github.com/hanzla-sib?tab=repositories)
 
@@ -158,18 +158,9 @@
 ### 💬 **Get In Touch**
 
 <p align="center">
-  <a href="mailto:anashabib139@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anas-baqai-bo21/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hanzlasib24@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hanzlasibghat/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/hanzla-sib"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-### ⚡ **My Development Arsenal**
-
-<p align="center">
-  <a href="#"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/></a>
-  <a href="#"><img alt="Claude" src="https://img.shields.io/badge/Claude%20Code-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white"/></a>
-  <a href="#"><img alt="Lovable" src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=heart&logoColor=white"/></a>
-  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 </div>
@@ -194,7 +185,7 @@
 
 _"The best AI systems don't replace human intelligence—they amplify it."_
 
-**🚀 Open to collaborating on:** GenAI projects, RAG systems, LLM integrations, and AI-powered applications
+**🚀 Open to collaborating on:** GenAI projects, RAG systems, LLM integrations, AI-powered applications and Full Stack Applications
 
 ---
 
