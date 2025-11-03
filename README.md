@@ -92,7 +92,7 @@
 <div align="center">
   
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hanzla-sib&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff&icon_color=53F3CE"/>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanzla-sib&theme=merko)]
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanzla-sib&layout=compact&langs_count=8&theme=react&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff"/>
 
 </div>
