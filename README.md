@@ -26,6 +26,12 @@
 
 ## 🔧 Tools & Technologies
 
+# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,ts,go,py,html,babel,bootstrap,css,pug,react,redux,sass,tailwind,materialui,nextjs,angular,vite,nodejs,express,graphql,nestjs,flask,fastapi,spring,elasticsearch,mongodb,mysql,postgres,redis,sqlite,firebase,jest,selenium,docker,kubernetes,githubactions,aws,azure,vercel,bash,discord,eclipse,git,github,heroku,linux,postman,stackoverflow,vscode,webstorm,notion,idea&theme=dark)](https://skillicons.dev)
+
+
+
 ### 🤖 **AI & GenAI Stack**
 
 <p align="left">
