@@ -73,15 +73,15 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnasBaqai&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff&icon_color=53F3CE"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hanzla-sib&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff&icon_color=53F3CE"/>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnasBaqai&layout=compact&langs_count=8&theme=react&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanzla-sib&layout=compact&langs_count=8&theme=react&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=AnasBaqai&theme=react&background=0f0f23&border=26D9C7&stroke=53F3CE&ring=26D9C7&fire=53F3CE&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=26D9C7&sideLabels=26D9C7&dates=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=hanzla-sib&theme=react&background=0f0f23&border=26D9C7&stroke=53F3CE&ring=26D9C7&fire=53F3CE&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=26D9C7&sideLabels=26D9C7&dates=ffffff)
 
 </div>
 
@@ -96,7 +96,7 @@
 <p align="center">
   <a href="mailto:anashabib139@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/anas-baqai-bo21/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/AnasBaqai"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/hanzla-sib"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ### ⚡ **My Development Arsenal**
@@ -138,7 +138,7 @@
 
 <div align="center">
 
-[![Anas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnasBaqai&bg_color=0d1117&color=26D9C7&line=53F3CE&point=1DB954&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanzla-sib&bg_color=0d1117&color=26D9C7&line=53F3CE&point=1DB954&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
