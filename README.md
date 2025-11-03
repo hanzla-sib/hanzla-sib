@@ -86,11 +86,14 @@
 
 ---
 
-[![Hanzla's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzla-sib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/hanzla-sib)
 
 ## 📈 GitHub Analytics
 
 <div align="center">
+ <div align="center">
+  https://github-readme-stats.vercel.app/api?username=hanzla-sib
+</div>
+
   
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hanzla-sib&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff&icon_color=53F3CE"/>
 
