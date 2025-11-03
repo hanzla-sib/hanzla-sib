@@ -86,7 +86,7 @@
 
 ---
 
-[![Hanzla's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzla-sib&show_icons=true&theme=tokyonight)](https://github.com/hanzla-sib)
+[![Hanzla's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzla-sib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/hanzla-sib)
 
 ## 📈 GitHub Analytics
 
