@@ -10,11 +10,11 @@
 
 ## 👋 Hello, I'm Hanzla Sibghat
 
-### 🚀 GenAI Engineer | 🤖 LLM Specialist | 🧠 AI Solutions Architect
+### 🚀 Full Stack Developer | 🎨 Frontend Specialist | 🤖 GenAI Engineer | 🧩 LLM Specialist | 🧠 AI Solutions Architect
 
-💡 Transforming businesses through intelligent automation and AI-powered solutions. I specialize in building production-ready GenAI applications using LangChain, RAG systems, and advanced prompt engineering. Currently pursuing **MSc Computer Science** at University of Passau while crafting the next generation of conversational AI interfaces.
+💡 As a **Software & AI Engineer at Siemens**, I’m passionate about transforming ideas into intelligent, production-ready solutions. With **2.5 years of full-stack experience**, I specialize in **frontend development** using **React** and **Next.js**, while building scalable, user-focused applications. I also develop **GenAI systems** leveraging **LangChain**, **RAG pipelines**, and **advanced prompt engineering** to automate workflows and deliver data-driven insights.
 
-🎯 **Current Focus**: Multi-agent systems, vector databases, and enterprise AI integrations
+🎯 **Current Focus:** Multi-agent systems, vector databases, and enterprise AI integrations while pursuing **MSc Computer Science** at **University of Passau**.
 
 <div align="center">
   
