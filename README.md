@@ -126,10 +126,10 @@
 
 | Project | Tech Stack | Status | Links |
 |---------|-----------|--------|-------|
-| 🛠 **CompAIler** | Python, AI | ✅ Deployed | [View →](https://hanzla-sib.github.io/CompAIler) |
-| 💻 **CodeSensei** | React, Next.js | ✅ Live | [View →](https://hanzla-sib.github.io/CodeSensei) |
-| 🏧 **ATM Machine OOP** | C++, File Handling | ✅ Completed | [View →](https://github.com/hanzla-sib/ATM-MACHINE-OOP) |
-| 🏥 **Remote Care (FYP)** | React, Java, Firebase, IoT | ✅ Deployed | [View →](https://github.com/hanzla-sib/SMD_PROJECT_REMOTECARE) |
+| 🛠 **CompAIler** | Python, AI | ✅ Live | [View →](https://github.com/hanzla-sib/CompAIler) |
+| 💻 **CodeSensei** | React, Next.js | ✅ Live | [View →](https://github.com/hanzla-sib/CodeSensei) |
+| 🏧 **Network-Analysis Graphs** | C++, File Handling | ✅ Completed | [View →](https://github.com/hanzla-sib/Network-Analysis-C-) |
+| 🏥 **Remote Care (FYP)** | React, Java, Firebase, IoT | ✅ Completed | [View →](https://github.com/hanzla-sib/SMD_PROJECT_REMOTECARE) |
 
 [🔗 View All Projects →](https://github.com/hanzla-sib?tab=repositories)
 
