@@ -53,17 +53,17 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/hanzla-sib/hanzla-sib/blob/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanzla-sib/hanzla-sib/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanzla-sib/hanzla-sib/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/hanzla-sib/hanzla-sib/output/github-snake-dark.svg" />
+</picture>
 
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-<table>
-<tr>
-<td width="55%">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 ```yaml
 name: Hanzla Sibghat
@@ -97,27 +97,16 @@ ai_focus:
 motto: "Ship fast, scale reliably, own it end to end."
 ```
 
-</td>
-<td width="45%">
+<br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-  
-  <br><br>
-  
   <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-26D9C7?style=for-the-badge&labelColor=0f0f23"/>
-  <br>
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-61DAFB?style=for-the-badge&labelColor=0f0f23"/>
-  <br>
   <img src="https://img.shields.io/badge/Focus-Generative%20AI-412991?style=for-the-badge&labelColor=0f0f23"/>
-  <br>
   <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-FF6B6B?style=for-the-badge&labelColor=0f0f23"/>
-  
 </div>
 
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 ---
 
