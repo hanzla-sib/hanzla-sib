@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hanzla%20Sibghat&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20GenAI%20Architect&descSize=18&descAlignY=58&descAlign=50&stroke=26D9C7&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hanzla%20Sibghat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20GenAI%20Architect&descSize=16&descAlignY=52&descAlign=50" width="100%"/>
 </div>
 
 <br>
@@ -25,7 +25,7 @@
 
 <img align="right" alt="Coder GIF" height="200px" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" />
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Hanzla!
+## 👋 Hey there, I'm Hanzla!
 
 <p>
   <img src="https://img.shields.io/badge/Backend%20Engineer-Go%20%7C%20Java-blue?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8&color=1a1a2e" />
@@ -57,7 +57,7 @@
   <img src="https://skillicons.dev/icons?i=go,java,python,ts,react,nextjs,tailwind,docker,terraform,mongodb,redis,postgres,git&perline=7&theme=dark" />
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
@@ -106,7 +106,7 @@ motto: "Ship fast, scale reliably, own it end to end."
 
 <br clear="both"/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I Bring to the Table
 
@@ -161,26 +161,7 @@ Prompt engineering
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
-
-## 🎯 Skill Proficiency
-
-<div align="center">
-
-| Technology | Proficiency |
-|:-----------|:------------|
-| **Go** | `████████████████████░░░░` 85% |
-| **Java** | `██████████████████░░░░░░` 75% |
-| **React / Next.js** | `█████████████████████░░░` 90% |
-| **TypeScript** | `█████████████████████░░░` 88% |
-| **Python** | `████████████████████░░░░` 82% |
-| **Docker / Terraform** | `██████████████████░░░░░░` 78% |
-| **LangChain / LLMs** | `████████████████████░░░░` 85% |
-| **MongoDB / PostgreSQL** | `██████████████████░░░░░░` 80% |
-
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+---
 
 ## 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
@@ -272,7 +253,7 @@ Prompt engineering
 </p>
 </details>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+---
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez8/giphy.gif" width="25px"> Experience & Education
 
@@ -305,7 +286,7 @@ Prompt engineering
   <img src="https://img.shields.io/badge/🎯%20Focus%20Areas-Distributed%20Systems%20•%20Backend%20Architecture%20•%20Multi--Agent%20AI%20•%20Enterprise%20Platforms-26D9C7?style=for-the-badge&labelColor=0f0f23"/>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+---
 
 ## 📈 GitHub Analytics
 
@@ -321,18 +302,7 @@ Prompt engineering
   <img height="400em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla-sib&layout=donut-vertical&langs_count=8&theme=react&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff&hide_border=true&hide=jupyter%20notebook"/>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
-
-## 🧊 3D Contribution Calendar
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanzla-sib/hanzla-sib/main/profile-3d-contrib/profile-night-green.svg" />
-    <img src="https://raw.githubusercontent.com/hanzla-sib/hanzla-sib/main/profile-3d-contrib/profile-green-animate.svg" width="100%"/>
-  </picture>
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+---
 
 ## ⚡ Recent GitHub Activity
 
@@ -342,7 +312,7 @@ Prompt engineering
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+---
 
 ## 🚀 Featured Projects
 
@@ -422,7 +392,7 @@ Prompt engineering
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+---
 
 ## 🏆 GitHub Trophies
 
@@ -432,7 +402,7 @@ Prompt engineering
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+---
 
 ## 💭 Random Dev Quote
 
@@ -442,7 +412,7 @@ Prompt engineering
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+---
 
 <div align="center">
   
@@ -471,5 +441,5 @@ _"Ship fast, scale reliably, own it end to end — from the first commit to the 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
