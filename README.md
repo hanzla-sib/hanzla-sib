@@ -47,7 +47,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=26D9C7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%A5+Building+backend+systems+that+scale+to+millions;%E2%9A%A1+Crafting+pixel-perfect+frontends+with+React+%26+Next.js;%F0%9F%A4%96+Engineering+AI-native+platforms+with+LLMs+%26+agents;%F0%9F%8E%AF+You+build+it%2C+you+run+it+%E2%80%94+ownership+end+to+end)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=26D9C7&center=true&vCenter=true&repeat=true&width=800&height=35&lines=%F0%9F%94%A5+Building+backend+systems+that+scale+to+millions;%E2%9A%A1+Crafting+pixel-perfect+frontends+with+React+%26+Next.js;%F0%9F%A4%96+Engineering+AI-native+platforms+with+LLMs+%26+agents;%F0%9F%8E%AF+You+build+it%2C+you+run+it+%E2%80%94+ownership+end+to+end)
 
 </div>
 
