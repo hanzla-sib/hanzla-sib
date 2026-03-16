@@ -53,11 +53,9 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanzla-sib/hanzla-sib/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanzla-sib/hanzla-sib/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/hanzla-sib/hanzla-sib/output/github-snake-dark.svg" />
-</picture>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,kotlin,java,python,ts,react,nextjs,tailwind,docker,terraform,mongodb,redis,postgres,git&perline=7&theme=dark" />
+</div>
 
 ---
 
