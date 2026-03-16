@@ -28,7 +28,7 @@
 ## 👋 Hey there, I'm Hanzla!
 
 <p>
-  <img src="https://img.shields.io/badge/Backend%20Engineer-Go%20%7C%20Kotlin%20%7C%20Java-blue?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8&color=1a1a2e" />
+  <img src="https://img.shields.io/badge/Backend%20Engineer-Go%20%7C%20Java-blue?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8&color=1a1a2e" />
   <img src="https://img.shields.io/badge/Frontend%20Specialist-React%20%7C%20Next.js-blue?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A&color=1a1a2e" />
   <img src="https://img.shields.io/badge/GenAI%20Engineer-LLMs%20%7C%20RAG%20%7C%20Agents-blue?style=for-the-badge&logo=openai&logoColor=white&labelColor=412991&color=1a1a2e" />
 </p>
@@ -54,7 +54,7 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,kotlin,java,python,ts,react,nextjs,tailwind,docker,terraform,mongodb,redis,postgres,git&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,java,python,ts,react,nextjs,tailwind,docker,terraform,mongodb,redis,postgres,git&perline=7&theme=dark" />
 </div>
 
 ---
@@ -75,7 +75,7 @@ superpower: |
   AND beautiful, responsive frontends — end to end.
 
 backend_focus:
-  - Scalable Go & Kotlin/Java microservices
+  - Scalable Go & Java microservices
   - REST APIs & async event-driven architectures
   - High-throughput data pipelines & integrations
   - CI/CD with safe, frequent deployments
@@ -88,7 +88,7 @@ frontend_focus:
   - Responsive, accessible interfaces
 
 ai_focus:
-  - Multi-agent systems with LangGraph
+  - Multi-agent systems with LangGraph & MCP
   - RAG pipelines & vector databases
   - Enterprise AI integration
 
@@ -120,7 +120,7 @@ motto: "Ship fast, scale reliably, own it end to end."
 
 ### ⚙️ Backend & Systems
 
-Scalable **Go** & **Kotlin/Java** services
+Scalable **Go** & **Java** services
 REST APIs & event-driven architecture
 Async messaging & data pipelines
 End-to-end feature ownership
@@ -149,7 +149,7 @@ Pixel-perfect interfaces
 ### 🤖 AI & GenAI
 
 **LangChain** & **LangGraph** pipelines
-Multi-agent orchestration
+Multi-agent orchestration & **MCP**
 RAG & vector databases
 LLM integration & fine-tuning
 Enterprise AI workflows
@@ -170,7 +170,6 @@ Prompt engineering
 <br>
 <p align="center">
   <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
-  <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
@@ -216,6 +215,7 @@ Prompt engineering
   <a href="#"><img alt="Groq" src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/></a>
   <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
   <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="#"><img alt="MCP" src="https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-6B21A8?style=for-the-badge&logo=anthropic&logoColor=white"/></a>
 </p>
 </details>
 
