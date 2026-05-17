@@ -64,7 +64,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-``yaml
+```yaml
 name: Hanzla Sibghat
 location: Munich, Germany 🇩🇪
 current_role: Software Engineer @ Siemens AG
@@ -95,7 +95,7 @@ ai_focus:
   - Enterprise AI integration (Ollama, GPT-4, Mistral)
 
 motto: "Ship fast, scale reliably, own it end to end."
-``
+```
 
 <br>
 
@@ -279,15 +279,21 @@ Prompt engineering
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanzla-sib&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff&icon_color=53F3CE&ring_color=26D9C7&hide_border=true"/>
+  <a href="https://github.com/hanzla-sib">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanzla-sib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=hanzla-sib&theme=react&background=0f0f23&border=26D9C7&stroke=53F3CE&ring=26D9C7&fire=53F3CE&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=26D9C7&sideLabels=26D9C7&dates=ffffff&hide_border=true" height="180em"/>
+  <a href="https://github.com/hanzla-sib">
+    <img height="180em" src="https://streak-stats.demolab.com?user=hanzla-sib&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla-sib&layout=donut-vertical&langs_count=8&theme=react&bg_color=0,0f0f23,1a1a2e&title_color=26D9C7&text_color=ffffff&hide_border=true&hide=jupyter%20notebook"/>
+  <a href="https://github.com/hanzla-sib">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla-sib&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
+  </a>
 </div>
 
 ---
