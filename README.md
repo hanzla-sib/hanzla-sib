@@ -64,7 +64,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-
+``yaml
 name: Hanzla Sibghat
 location: Munich, Germany 🇩🇪
 current_role: Software Engineer @ Siemens AG
@@ -95,7 +95,7 @@ ai_focus:
   - Enterprise AI integration (Ollama, GPT-4, Mistral)
 
 motto: "Ship fast, scale reliably, own it end to end."
-
+``
 
 <br>
 
