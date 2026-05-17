@@ -54,7 +54,7 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,python,ts,react,nextjs,tailwind,docker,terraform,mongodb,redis,postgres,git&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=,java,python,ts,react,nextjs,tailwind,docker,terraform,mongodb,redis,postgres,git&perline=7&theme=dark" />
 </div>
 
 ---
@@ -75,7 +75,7 @@ superpower: |
   AND beautiful, responsive frontends — end to end.
 
 backend_focus:
-  - Scalable Go & Java microservices
+  - Scalable  & Java microservices
   - REST APIs & async event-driven architectures
   - High-throughput data pipelines & integrations
   - CI/CD with safe, frequent deployments
@@ -120,7 +120,7 @@ motto: "Ship fast, scale reliably, own it end to end."
 
 ### ⚙️ Backend & Systems
 
-Scalable **Go** & **Java** services
+Scalable **** & **Java** services
 REST APIs & event-driven architecture
 Async messaging & data pipelines
 End-to-end feature ownership
@@ -169,7 +169,7 @@ Prompt engineering
 <summary><b>🔧 Backend & Systems Languages</b></summary>
 <br>
 <p align="center">
-  <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
+  
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
@@ -182,7 +182,7 @@ Prompt engineering
 <summary><b>🖥️ Backend Frameworks & Runtime</b></summary>
 <br>
 <p align="center">
-  <a href="#"><img alt="Gin" src="https://img.shields.io/badge/Gin_(Go)-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
+ 
   <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/></a>
