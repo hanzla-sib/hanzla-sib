@@ -280,7 +280,7 @@ Prompt engineering
 
 <div align="center">
   <a href="https://github.com/hanzla-sib">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanzla-sib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanzla-sib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/hanzla-sib">
@@ -292,11 +292,7 @@ Prompt engineering
 
 <div align="center">
   <a href="https://github.com/hanzla-sib">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla-sib&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/hanzla-sib">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanzla-sib&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanzla-sib&theme=tokyonight" />
   </a>
 </div>
 
@@ -309,6 +305,10 @@ Prompt engineering
   &nbsp;&nbsp;
   <a href="https://github.com/hanzla-sib">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hanzla-sib&theme=tokyonight&utcOffset=2" height="180em" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/hanzla-sib">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla-sib&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
   </a>
 </div>
 
